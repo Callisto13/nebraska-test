@@ -8,5 +8,6 @@ spec:
   interval: 30s
   ref:
     branch: master
-  url: https://github.com/stefanprodan/podinfo
+    commit: bf09377bfd5d3bcac1e895fa8ce52dc76695c060
+  url: https://github.com/warehouse-13/podinfo
 
